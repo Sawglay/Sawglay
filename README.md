@@ -1,44 +1,90 @@
-<h1 align="center">Hello, I'm G Lay</h1>
-<h3 align="center">Backend Developer • AI Builder • Security Enthusiast • UI/UX Designer</h3>
+-apple-system, BlinkMacSystemFont, "SF Pro Display", "Helvetica Neue", sans-serif
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Project+Builder;Security+Tool+Explorer;DevOps+Learner;Future+Startup+Founder" />
-</p>
+<!-- Apple Style Minimal README -->
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+<div align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', sans-serif;">
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+# G Lay
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+### Full-Stack Developer  
+Design • Backend • AI Systems
 
-🔎 AI-Powered Website Security Scanner  
-→ Scans websites and detects vulnerabilities  
+<br/>
 
-🎨 AI Aesthetic Mood Board Generator  
-→ AI-generated creative design boards  
+> Building clean systems.  
+> Designing thoughtful interfaces.  
+> Engineering startup-level products.
 
-🎲 Sustainability Strategy Board Game  
-→ Competitive + Cooperative learning system  
+<br/><br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
+</div>
 
-- ✅ Build production-ready SaaS
-- 🔐 Master Web Security & Vulnerability Scanning
-- ⚙ Deploy with CI/CD pipeline
-- 🚀 Launch first startup-level product
+---
 
-- 📧 your-email@example.com  
-🌐 Portfolio (Coming Soon)
+## About
+
+I’m a developer based in Bangkok, focused on building scalable backend systems and intelligent AI-powered tools.  
+
+My background combines computer science, UI/UX design, and DevOps thinking — allowing me to design and ship complete products from concept to deployment.
+
+Currently working on:
+- AI-powered website security scanning tools  
+- Intelligent creative mood board generator  
+- Production-ready full-stack systems  
+
+---
+
+## Philosophy
+
+- Simplicity over complexity  
+- Systems over shortcuts  
+- Long-term thinking over trends  
+- Quality over quantity  
+
+---
+
+## Tech Stack
+
+**Frontend**  
+React · Next.js · Tailwind CSS  
+
+**Backend**  
+Node.js · Django · PostgreSQL  
+
+**DevOps & Systems**  
+Linux · Docker · Git · CI/CD  
+
+---
+
+## Selected Work
+
+**AI Website Security Scanner**  
+Scans web applications and identifies potential vulnerabilities.
+
+**AI Aesthetic Mood Board Generator**  
+Generates curated creative boards using intelligent prompts.
+
+**Sustainability Strategy Board Game**  
+A competitive + cooperative learning system design.
+
+---
+
+## 2026 Focus
+
+- Build a production SaaS product  
+- Master web security architecture  
+- Strengthen system design & scalability  
+- Launch a startup-level platform  
+
+---
+
+<div align="center">
+
+© 2026 G Lay  
+Built with clarity and intention.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=200&section=header&text=G%20Lay&fontSize=40&fontColor=ffffff" />
 </p>
+
+</div>
