@@ -92,4 +92,5 @@ Built with clarity and intention.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=200&section=header&text=G%20Lay&fontSize=40&fontColor=ffffff" />
 </p>
 
-</div>
+![snake_gif](https://github.com/Sawglay/Sawglay/blob/output/github-contribution-grid-snake.gif)
+
