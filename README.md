@@ -10,7 +10,6 @@
 Design • Backend • AI Systems
 
 <br/>
-
 > Building clean systems.  
 > Designing thoughtful interfaces.  
 > Engineering startup-level products.
@@ -20,7 +19,9 @@ Design • Backend • AI Systems
 </div>
 
 ---
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Project+Builder;Security+Tool+Explorer;DevOps+Learner;Future+Startup+Founder" />
+</p>
 ## About
 
 I’m a developer based in Bangkok, focused on building scalable backend systems and intelligent AI-powered tools.  
