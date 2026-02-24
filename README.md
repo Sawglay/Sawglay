@@ -1,5 +1,47 @@
 -apple-system, BlinkMacSystemFont, "SF Pro Display", "Helvetica Neue", sans-serif
+---
 
+## Contribution
+
+I value thoughtful collaboration and clean engineering practices.
+
+If you would like to contribute:
+
+1. Fork the repository  
+2. Create a feature branch  
+3. Write clear, maintainable code  
+4. Submit a pull request with a concise explanation  
+
+<br/>
+
+### Contribution Principles
+
+- Keep solutions simple  
+- Prioritize readability  
+- Follow consistent structure  
+- Think long-term scalability  
+
+<br/>
+
+Thank you for contributing with intention.
+
+---
+
+## Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=minimal&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=false&hide_border=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&theme=default" />
+</p>
+
+---
 <!-- Apple Style Minimal README -->
 
 <div align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', sans-serif;">
