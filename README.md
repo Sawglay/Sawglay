@@ -1,5 +1,6 @@
 <!-- Apple Style Minimal README -->
 <div align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', sans-serif;">
+  
 ### Full-Stack Developer  
 Design • Backend • AI Systems
   
