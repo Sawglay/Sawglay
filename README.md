@@ -4,8 +4,6 @@
 # Full-Stack Developer  
 Design • Backend • AI Systems
   
-<br/><br/>
-
 </div>
 
 ---
