@@ -93,6 +93,8 @@ Built with clarity and intention.
 </p>
 
 ![snake_gif](https://github.com/Sawglay/Sawglay/blob/output/github-contribution-grid-snake.gif)
+## Contribution
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sawglay/Sawglay/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Sawglay/Sawglay/output/github-contribution-grid-snake-dark.svg" />
 </p>
