@@ -1,16 +1,9 @@
 <!-- Apple Style Minimal README -->
 
 <div align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', sans-serif;">
-
-# G Lay
-
+  
 ### Full-Stack Developer  
 Design • Backend • AI Systems
-
-<br/>
-> Building clean systems.  
-> Designing thoughtful interfaces.  
-> Engineering startup-level products.
 
 <br/><br/>
 
@@ -56,36 +49,9 @@ Linux · Docker · Git · CI/CD
 
 ---
 
-## Selected Work
-
-**AI Website Security Scanner**  
-Scans web applications and identifies potential vulnerabilities.
-
-**AI Aesthetic Mood Board Generator**  
-Generates curated creative boards using intelligent prompts.
-
-**Sustainability Strategy Board Game**  
-A competitive + cooperative learning system design.
-
----
-## Activity
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&theme=default" />
-</p>
----
-
-## 2026 Focus
-
-- Build a production SaaS product  
-- Master web security architecture  
-- Strengthen system design & scalability  
-- Launch a startup-level platform  
-
----
-
 <div align="center">
 
-© 2026 G Lay  
+© 2023 G Lay  
 Built with clarity and intention.
 
 <p align="center">
@@ -93,8 +59,8 @@ Built with clarity and intention.
 </p>
 
 ![snake_gif](https://github.com/Sawglay/Sawglay/blob/output/github-contribution-grid-snake.gif)
-## Contribution
 
+## Contribution
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sawglay/Sawglay/output/github-contribution-grid-snake-dark.svg" />
 </p>
