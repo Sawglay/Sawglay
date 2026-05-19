@@ -8,7 +8,7 @@
 </p> -->
 
 ### About
-Focused on building software and scalable backend systems.  
+**Focused on building software and scalable backend systems.**
 My background combines computer science, UI/UX design, and DevOps thinking — allowing me to design and ship complete products from concept to deployment.
 
 
