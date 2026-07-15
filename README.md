@@ -21,9 +21,9 @@ My background combines computer science, UI/UX design, and DevOps thinking — a
   <img src="https://raw.githubusercontent.com/Sawglay/Sawglay/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<!-- <div align="center">
+<div align="center">
 © 2023 G Lay  
 Built with clarity and intention.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=200&section=header&text=G%20Lay&fontSize=40&fontColor=ffffff" />
-</p> -->
+</p>
