@@ -1,5 +1,3 @@
-<!-- <div align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', sans-serif;">
-   -->
 ## Hi, I am G Lay.👀
 <!-- </div> -->
 <!-- <p align="center">
