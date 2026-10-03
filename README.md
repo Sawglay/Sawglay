@@ -1,7 +1,7 @@
 ## Hi, I am G Lay.👀
 
 ### About
-**Mainly Focused on building software , managing problem solving and scalable backend systems.**
+**Mainly Focused on building software ,managing problem solving, and scalable backend systems.**
 My background combines computer science, UI/UX design, and DevOps thinking — allowing me to design and ship complete products from concept to deployment.
 
 
