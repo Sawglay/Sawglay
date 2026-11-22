@@ -13,7 +13,7 @@ My background combines computer science, UI/UX design, and DevOps thinking — a
 - Long-term thinking over trends
 - Quality over quantity
 - Problem Solving
-
+- 
 ---
 
 <p align="center">
